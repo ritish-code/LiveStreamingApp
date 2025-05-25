@@ -1,0 +1,7 @@
+live-app-backend/node_modules/
+liveAppFrontend/node_modules
+live-app-backend/.DS_Store
+live-app-backend/logs
+live-app-backend/*.log
+live-stream-server/node_modules
+live-stream-server/package-lock.json
